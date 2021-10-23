@@ -6,7 +6,7 @@ var mainEl = document.querySelector("#main-card");
 var forecast = document.querySelector("#forecast");
 var formEl = document.querySelector("form");
 var cityButtons = [];
-var openWeathApiKey = "d91f911bcf2c0f925fb6535547a5ddc9";
+var openWeathApiKey = "b8323a613e2197cd9fb8b813e902ecf7";
 
 function searchAndGenerateWeather(city) {
   //clear the html for new content
