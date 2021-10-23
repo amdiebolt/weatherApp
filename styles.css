@@ -1,0 +1,29 @@
+HTML{
+    height:100%
+}
+
+
+body{
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(white, lightskyblue )
+}
+
+header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between
+}
+
+header h1 {
+    text-align: center;
+}
+
+
+.card {
+    background-color: lightskyblue;
+}
+
